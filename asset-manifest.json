@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/unityhints-dev/static/css/main.cfdc7001.css",
-    "main.js": "/unityhints-dev/static/js/main.cec1198d.js",
+    "main.css": "/unityhints-dev/static/css/main.5b0f747e.css",
+    "main.js": "/unityhints-dev/static/js/main.d78742f2.js",
     "static/js/453.ed3810f9.chunk.js": "/unityhints-dev/static/js/453.ed3810f9.chunk.js",
     "index.html": "/unityhints-dev/index.html",
-    "main.cfdc7001.css.map": "/unityhints-dev/static/css/main.cfdc7001.css.map",
-    "main.cec1198d.js.map": "/unityhints-dev/static/js/main.cec1198d.js.map",
+    "main.5b0f747e.css.map": "/unityhints-dev/static/css/main.5b0f747e.css.map",
+    "main.d78742f2.js.map": "/unityhints-dev/static/js/main.d78742f2.js.map",
     "453.ed3810f9.chunk.js.map": "/unityhints-dev/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfdc7001.css",
-    "static/js/main.cec1198d.js"
+    "static/css/main.5b0f747e.css",
+    "static/js/main.d78742f2.js"
   ]
 }
