@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/unityhints-dev/static/js/main.b73dd47a.js",
+    "main.js": "/unityhints-dev/static/js/main.3b54ccdd.js",
     "static/js/453.ed3810f9.chunk.js": "/unityhints-dev/static/js/453.ed3810f9.chunk.js",
     "index.html": "/unityhints-dev/index.html",
-    "main.b73dd47a.js.map": "/unityhints-dev/static/js/main.b73dd47a.js.map",
+    "main.3b54ccdd.js.map": "/unityhints-dev/static/js/main.3b54ccdd.js.map",
     "453.ed3810f9.chunk.js.map": "/unityhints-dev/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b73dd47a.js"
+    "static/js/main.3b54ccdd.js"
   ]
 }
